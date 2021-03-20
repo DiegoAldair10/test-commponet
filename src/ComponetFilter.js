@@ -8,6 +8,17 @@ export class ComponetFilter extends LitElement {
         padding: 25px;
         color: var(--componet-filter-text-color, #000);
       }
+
+      button{
+          background-color : #87dfdb;
+          width:80px;
+          height: 40px;
+          color : blue;
+      }
+      h2{
+        color:blue;
+        
+      }
     `;
   }
 
